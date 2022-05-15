@@ -2,6 +2,7 @@
 
 !**/
 !.gitignore
+!*.md
 !*.js
 !*.html
 !*.css
