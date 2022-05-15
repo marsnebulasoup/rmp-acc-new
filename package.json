@@ -1,0 +1,18 @@
+{
+  "name": "rmp-acc",
+  "version": "1.0.0",
+  "description": "A Chrome extension which integrates Rate My Professor with any webpage.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marsnebulasoup/rmp-acc-new.git"
+  },
+  "author": "marsnebulasoup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marsnebulasoup/rmp-acc-new/issues"
+  },
+  "homepage": "https://github.com/marsnebulasoup/rmp-acc-new#readme"
+}
